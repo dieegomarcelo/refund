@@ -21,7 +21,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <img src="./screenshot.png" alt="Prévia da aplicação" width="500">
 
-> *Adicione uma imagem do projeto se quiser. Para isso, tire um print e salve como `screenshot.png` na raiz.*
 
 ## 📦 Como rodar o projeto
 
